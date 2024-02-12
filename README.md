@@ -11,6 +11,7 @@ Plånkan App is an ASP.NET Core web application designed to simplify personal fi
 - **Categories:** Organize your transactions into categories for better financial management.
 - **Dashboard:** Get a quick overview of your financial health with our intuitive dashboard.
 - **Responsive Design:** Access your financial data on any device, thanks to our responsive web design.
+- **Printable Report:** Get a visiual summary of your transations between from any date of your choice.
 
 ## Technology Stack
 - **Backend:** ASP.NET Core
