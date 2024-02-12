@@ -3,6 +3,8 @@
 ## Overview
 Plånkan App is an ASP.NET Core web application designed to simplify personal finance management. It allows users to track their expenses, categorize them, and view financial insights through a user-friendly dashboard. This project aims to provide a comprehensive tool for budgeting and financial tracking.
 
+![picture](plankan-app.png)
+
 
 ## Features
 - **Transaction Management:** Record and track your daily expenses and incomes with ease.
