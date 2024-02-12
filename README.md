@@ -16,7 +16,7 @@ Plånkan App is an ASP.NET Core web application designed to simplify personal fi
 ## Technology Stack
 - **Backend:** ASP.NET Core
 - **ORM:** Entity Framework Core for database operations
-- **Frontend:** HTML, CSS (Bootstrap), JavaScript (jQuery)
+- **Frontend:** HTML, CSS (Bootstrap and Syncfusion), JavaScript (jQuery)
 - **Database:** SQL Server (can be configured in `appsettings.json`)
 
 ## Getting Started
