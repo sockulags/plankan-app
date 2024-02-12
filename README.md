@@ -44,5 +44,5 @@ Plånkan App is an ASP.NET Core web application designed to simplify personal fi
    ```bash
    dotnet run
    ```
-6. Open your browser and navigate to `https://localhost:5001` to view the application.
+6. Open your browser and navigate to `https://localhost:5001` to view the application. PS. You have to add some categories from the get go, there is no mock-data in the project.
 
